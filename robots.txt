@@ -1,0 +1,186 @@
+# robots.txt para www.abogado-badalona.es
+# Abogado en Badalona
+# https://www.abogado-badalona.es/
+# Actualizado: 2026
+
+# ============================================================================
+# POLÍTICA GENERAL — TODOS LOS BOTS
+# ============================================================================
+
+User-agent: *
+
+# --- Higiene SEO: parámetros y duplicados ---
+Disallow: /*?utm_*
+Disallow: /*?gclid=
+Disallow: /*?fbclid=
+Disallow: /*?msclkid=
+Disallow: /*?ref=
+Disallow: /*?source=
+Disallow: /search/
+Disallow: /*?s=
+
+# --- Endpoints internos ---
+Disallow: /api/
+
+# --- Acceso garantizado a recursos de renderizado ---
+Allow: /
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.png$
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Allow: /*.svg$
+Allow: /*.webp$
+Allow: /*.avif$
+Allow: /*.ico$
+Allow: /*.woff$
+Allow: /*.woff2$
+Allow: /*.ttf$
+
+# ============================================================================
+# BUSCADORES TRADICIONALES — ACCESO COMPLETO
+# ============================================================================
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+# ============================================================================
+# BOTS DE IA / LLMs — ACCESO COMPLETO
+# Estrategia GEO: maximizar presencia en respuestas de IA generativa
+# para consultas sobre abogado en badalona.
+# ============================================================================
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Meta-ExternalFetcher
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: DuckAssistBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: FacebookBot
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+# ============================================================================
+# HERRAMIENTAS DE AUDITORÍA AUTORIZADAS
+# ============================================================================
+
+User-agent: AhrefsBot
+Allow: /
+
+# ============================================================================
+# BOTS AGRESIVOS / SCRAPERS / SIN VALOR SEO — BLOQUEADOS
+# ============================================================================
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Sogou
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+# ============================================================================
+# SITEMAP
+# ============================================================================
+
+Sitemap: https://www.abogado-badalona.es/sitemap.xml
