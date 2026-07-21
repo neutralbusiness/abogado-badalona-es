@@ -1,19 +1,3 @@
-Looking at the failing audits, I need to fix:
-
-1. **Performance**: Reduce unused JS - the `/t9pg/` URL appears to be a tracking script; I need to defer it (it's not in the HTML, so this may be injected, but I'll address what I can)
-2. **Accessibility - ARIA prohibited**: `div` with `aria-label` - `div` role is generic/none, so `aria-label` is prohibited. Fix by adding `role="img"` to the star containers
-3. **Accessibility - Color contrast**: Fix low contrast elements (`aria-current="page"` breadcrumb, `section-label`, `section-subtitle`, body paragraphs)
-4. **Accessibility - Accessible name mismatch**: The phone link has `aria-label="Llamar al 641 161 771"` but visible text is "641 161 771" - fix by making aria-label match or removing it
-5. **Best Practices - Console errors**: Likely from the form action `/api/contacto` 404ing; add novalidate or handle gracefully
-
-Let me analyze the contrast issues:
-- `span[aria-current="page"]` - breadcrumb text on white background: `--gray-500` (#7A7775) needs to be darker
-- `.section-label` - gold on white: `--gold-500` (#C9A84C) needs darker shade
-- `.section-subtitle` - `--gray-500` (#7A7775) on white needs darker
-- `<p>` elements with `--gray-500` color
-
-For the accessible name mismatch on the phone link: change `aria-label` to match visible text, or remove it since "641 161 771" is descriptive enough with context.
-
 <!DOCTYPE html>
 <html lang="es" dir="ltr">
 <head>
