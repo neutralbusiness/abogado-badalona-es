@@ -1,34 +1,23 @@
 # Abogado Badalona
 
-> Despacho de abogados en Badalona con consulta inicial gratuita. Especialistas en derecho civil, penal, laboral, familia, herencias y mercantil. +20 años de experiencia.
+> Abogado Badalona es un negocio de abogado en Badalona.
 
-## Servicios principales
+## Información de contacto
 
-- Abogado de Familia y Divorcios en Badalona
-- Abogado Laboralista en Badalona
-- Abogado Penalista en Badalona
-- Abogado Civil en Badalona
-- Abogado de Herencias en Badalona
-- Abogado Mercantil en Badalona
+- Teléfono: (pendiente)
+- Email: info@abogado-badalona.es
+- Web: https://www.abogado-badalona.es
+- Localidad: Badalona
 
-## Ubicación
+## Páginas del sitio
 
-Badalona, Barcelona (España). Atendemos Badalona, Barcelona, Santa Coloma de Gramenet, Sant Adrià de Besòs, Montgat y Tiana.
-
-## Contacto
-
-- Teléfono: 641 161 771
-- Web: https://www.abogado-badalona.es/
-- Horario: Lunes a Viernes, 09:00–18:00
-
-## Consulta gratuita
-
-Ofrecemos consulta inicial gratuita y presupuesto cerrado sin sorpresas. Facilidades de pago disponibles.
-
-## Metadatos SEO por página
-
-Metadatos SEO optimizados para cada página del sitio. Incluyen resumen del contenido y palabras clave principales para mejorar la relevancia en búsquedas.
-
-- [/](https://www.abogado-badalona.es/)
-  Resumen: Despacho de abogados en Badalona especializado en derecho civil, penal, laboral, familia, herencias y mercantil. Consulta inicial gratuita y más de 20 años de experiencia al servicio de particulares y empresas.
-  Keywords: abogado badalona, despacho abogados badalona, abogado divorcios badalona, cuánto cuesta un abogado en badalona, abogado laboralista badalona, abogado herencias badalona
+- [Inicio](https://www.abogado-badalona.es/)
+- [Servicios](https://www.abogado-badalona.es/servicios/)
+- [La Firma](https://www.abogado-badalona.es/la-firma/)
+- [Tarifas](https://www.abogado-badalona.es/tarifas/)
+- [Opiniones](https://www.abogado-badalona.es/opiniones/)
+- [Faq](https://www.abogado-badalona.es/faq/)
+- [Contacto](https://www.abogado-badalona.es/contacto/)
+- [Aviso Legal](https://www.abogado-badalona.es/aviso-legal/)
+- [Politica Privacidad](https://www.abogado-badalona.es/politica-privacidad/)
+- [Politica Cookies](https://www.abogado-badalona.es/politica-cookies/)
