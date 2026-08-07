@@ -1,23 +1,94 @@
 # Abogado Badalona
 
-> Abogado Badalona es un negocio de abogado en Badalona.
+> Despacho de abogados en Badalona. Consulta gratuita. Especialistas en derecho civil, penal, laboral, familia, herencias y mercantil. Atención personalizada para particulares y empresas.
 
-## Información de contacto
+## Datos clave
 
-- Teléfono: (pendiente)
-- Email: info@abogado-badalona.es
-- Web: https://www.abogado-badalona.es
-- Localidad: Badalona
+- **Nombre:** Abogado Badalona
+- **Sector:** abogado
+- **Localidad:** Badalona (Barcelona), España
+- **Web oficial:** https://www.abogado-badalona.es
+- **Teléfono / WhatsApp:** 641161771
+- **Horario:** lunes a viernes 09:00–18:00
+- **Idioma:** español
 
-## Páginas del sitio
+## Servicios principales
+
+- **Abogado de Familia y Divorcios**
+- **Abogado Laboralista**
+- **Abogado Penalista**
+- **Abogado Civil**
+- **Abogado de Herencias y Sucesiones**
+- **Abogado Mercantil y de Empresa**
+- **Abogado de Accidentes de Tráfico**
+- **Abogado de Deudas e Impagados**
+- **Abogado Administrativo**
+
+## Preguntas frecuentes
+
+### ¿Cuánto cuesta un abogado en Badalona?
+
+Los honorarios varían según la complejidad del caso. Ofrecemos consulta inicial gratuita y presupuesto cerrado sin sorpresas. Disponemos de facilidades de pago.
+
+### ¿Cómo puedo solicitar una consulta gratuita?
+
+Llama al 641 161 771, envía un WhatsApp o rellena el formulario de contacto. Respondemos en menos de 24 horas.
+
+### ¿Necesito un abogado para un divorcio de mutuo acuerdo?
+
+Sí, en España es obligatorio contar con abogado y procurador. En divorcios de mutuo acuerdo ambas partes pueden compartir abogado, reduciendo costes.
+
+### ¿Qué hace un abogado laboralista y cuándo necesito uno?
+
+Te asesora en conflictos laborales: despidos, reclamaciones salariales, acoso laboral, incapacidades o accidentes de trabajo.
+
+### ¿Cuánto tarda un proceso de divorcio en Badalona?
+
+Un divorcio de mutuo acuerdo: 2-4 meses. Un divorcio contencioso: 6 meses a más de un año.
+
+### ¿Qué documentos necesito para una herencia?
+
+Certificado de defunción, certificado de últimas voluntades, testamento (si existe), escrituras de propiedades, extractos bancarios y DNI de los herederos.
+
+### ¿Puede un abogado ayudarme si me deben dinero?
+
+Sí. Gestionamos reclamaciones de deudas mediante proceso monitorio, juicio verbal u ordinario. Primero intentamos resolución extrajudicial.
+
+### ¿Qué derechos tengo si me despiden?
+
+Derecho a indemnización, carta de despido, finiquito y prestación por desempleo. El plazo para reclamar es de 20 días hábiles.
+
+### ¿Ofrecen servicios para empresas en Badalona?
+
+Sí: derecho mercantil, contratos, constitución de sociedades, conflictos entre socios, laboral empresarial y asesoría fiscal.
+
+### ¿Atienden casos de derecho penal?
+
+Sí: delitos contra las personas, estafas, delitos económicos, violencia de género y asistencia urgente al detenido.
+
+## Área de servicio
+
+Zona de trabajo: Badalona, Barcelona, Santa Coloma de Gramenet, Sant Adrià de Besòs, Montgat, Tiana.
+
+## Contacto y ubicación
+
+- **Nombre:** Abogado Badalona
+- **Dirección:** 08911 Badalona, Barcelona
+- **Teléfono / WhatsApp:** +34641161771
+- **Web:** https://www.abogado-badalona.es
+- **Horario:** lunes a viernes 09:00–18:00
+
+## Recursos
 
 - [Inicio](https://www.abogado-badalona.es/)
-- [Servicios](https://www.abogado-badalona.es/servicios/)
-- [La Firma](https://www.abogado-badalona.es/la-firma/)
-- [Tarifas](https://www.abogado-badalona.es/tarifas/)
-- [Opiniones](https://www.abogado-badalona.es/opiniones/)
-- [Faq](https://www.abogado-badalona.es/faq/)
 - [Contacto](https://www.abogado-badalona.es/contacto/)
-- [Aviso Legal](https://www.abogado-badalona.es/aviso-legal/)
-- [Politica Privacidad](https://www.abogado-badalona.es/politica-privacidad/)
-- [Politica Cookies](https://www.abogado-badalona.es/politica-cookies/)
+- [Faq](https://www.abogado-badalona.es/faq/)
+- [La Firma](https://www.abogado-badalona.es/la-firma/)
+- [Opiniones](https://www.abogado-badalona.es/opiniones/)
+- [Servicios](https://www.abogado-badalona.es/servicios/)
+- [Tarifas](https://www.abogado-badalona.es/tarifas/)
+
+## Sitemap
+
+- [Mapa del sitio XML](https://www.abogado-badalona.es/sitemap.xml)
+- [Este archivo](https://www.abogado-badalona.es/llms.txt) sigue el estándar [llms.txt](https://llmstxt.org/) para asistentes de IA.
