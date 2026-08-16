@@ -1,2 +1,6 @@
 # www redirect handled by Cloudflare
 /index.html  /  301
+
+# El indice real de esta web es /sitemap_index.xml. Se redirige /sitemap.xml
+# porque hay herramientas y enlaces que asumen la ruta clasica.
+/sitemap.xml  /sitemap_index.xml  301
