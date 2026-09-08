@@ -374,7 +374,19 @@
   .whatsapp-float{animation:none}
 }
 
-  </style>
+  
+/* nb-ancho-pantalla */
+/* Ancho de pantalla: el contenedor deja de tener tope fijo y el margen pasa a
+   ser un carril proporcional (96px a 1920, 72 a 1440, 64 a 1280). El texto no
+   se estira: el titular se queda en medida de lectura. Por debajo de 1280 no
+   cambia nada. */
+@media(min-width:1280px){
+.container{max-width:none;width:auto;padding-inline:clamp(1rem,5vw,6rem);margin-inline:auto}
+h1{max-width:961px}
+.container p{max-width:72ch}
+.advantage-card h1,.advantage-card p,.btn h1,.btn p,.cta-final h1,.cta-final p,.footer-bottom h1,.footer-bottom p,.form-legal h1,.form-legal p,.hero-grid h1,.hero-grid p,.hero-stats div h1,.hero-stats div p,.section-header h1,.section-header p,.tarifas-nota h1,.tarifas-nota p{margin-inline:auto}
+}
+</style>
   </style>
 <script async src="https://panel.neutralb.es/track.js"></script></head>
 <body>
