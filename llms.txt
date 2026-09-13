@@ -88,6 +88,13 @@ Zona de trabajo: Badalona, Barcelona, Santa Coloma de Gramenet, Sant Adrià de B
 - [Servicios](https://www.abogado-badalona.es/servicios/)
 - [Tarifas](https://www.abogado-badalona.es/tarifas/)
 
+## Blog
+
+- [Blog](https://www.abogado-badalona.es/blog/): índice de artículos
+- [Te han despedido en Badalona: los 20 días hábiles y la papeleta de conciliación](https://www.abogado-badalona.es/blog/despido-20-dias-habiles-conciliacion-badalona/): Cómo se cuentan los 20 días hábiles, qué hace la papeleta de conciliación en Cataluña y qué conviene firmar la primera semana.
+- [Heredar deudas en Cataluña: el inventario de seis meses que protege tu patrimonio](https://www.abogado-badalona.es/blog/heredar-deudas-cataluna-beneficio-inventario/): Aceptar sin inventario te hace responder con tu dinero. El plazo de seis meses, el notario y qué pasa si renuncias.
+- [Reclamar una deuda desde 2025: el intento de negociación previo obligatorio](https://www.abogado-badalona.es/blog/reclamar-deuda-ley-organica-1-2025-negociacion-previa/): La Ley Orgánica 1/2025 exige intentar negociar antes de demandar: qué medios valen, el plazo de 30 días y cómo redactar la propuesta.
+
 ## Sitemap
 
 - [Mapa del sitio XML](https://www.abogado-badalona.es/sitemap.xml)
