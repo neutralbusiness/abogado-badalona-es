@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <title>Abogado Badalona</title>
+  <rect width="100" height="100" rx="20" fill="#0B1D33"/>
+  <g transform="translate(8 8) scale(.84)" fill="#C9A84C" stroke="#C9A84C" stroke-linecap="round">
+    <path d="M50 20V80M16 28H84" stroke-width="5" fill="none"/>
+    <path d="M20 28L7 57M20 28L33 57M80 28L67 57M80 28L93 57" stroke-width="3.2" fill="none"/>
+    <circle cx="50" cy="15" r="5" stroke="none"/>
+    <path d="M36 80H64L70 88H30Z" stroke="none"/>
+    <path d="M5 57H35A15 10 0 0 1 5 57ZM65 57H95A15 10 0 0 1 65 57Z" stroke="none"/>
+  </g>
+</svg>
