@@ -4,3 +4,16 @@
 # El indice real de esta web es /sitemap_index.xml. Se redirige /sitemap.xml
 # porque hay herramientas y enlaces que asumen la ruta clasica.
 /sitemap.xml  /sitemap_index.xml  301
+
+# URLs del sitio anterior con impresiones en Search Console (30-sep-2026).
+# Precio y «abogado barato» tienen intención de precio: van a las tarifas.
+/precio-abogado-*  /tarifas/  301
+/tarifa-abogado-badalona/  /tarifas/  301
+/abogado-barato-*  /tarifas/  301
+/tag/*  /blog/  301
+/category/*  /blog/  301
+/author/*  /la-firma/  301
+/legal/*  /blog/  301
+/hipotecas/*  /blog/  301
+/herencias/*  /blog/heredar-deudas-cataluna-beneficio-inventario/  301
+/divorcios/*  /blog/  301
