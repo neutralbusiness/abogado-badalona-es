@@ -4,6 +4,32 @@
  */
 export async function onRequest(context) {
   const url = new URL(context.request.url);
+  // Ficheros internos del repositorio: la raíz del repo es la de la web, así que
+  // README, docs, código fuente, configuración y carpetas ocultas responden 404.
+  {
+    let __ruta = url.pathname;
+    try { __ruta = decodeURIComponent(__ruta); } catch (e) {}
+    if (
+      /(^|\/)\.(?!well-known(\/|$))[^/]+/.test(__ruta) ||
+      /^\/(docs|src|scripts|public|functions|node_modules|contenido|_contenido)(\/|$)/i.test(__ruta) ||
+      /\.(md|markdown|py|ts|tsx|astro|sh|toml|jsonc|ya?ml|lock|sql|log|bak|php)$/i.test(__ruta) ||
+      /^\/(readme|changelog|license)[^/]*$/i.test(__ruta) ||
+      /^\/(package(-lock)?|tsconfig|composer)\.json$/i.test(__ruta) ||
+      /^\/(wrangler|astro\.config|vite\.config|tailwind\.config|postcss\.config)\.[^/]+$/i.test(__ruta)
+    ) {
+      let __cuerpo = "Not found";
+      try {
+        let __nf = await context.env.ASSETS.fetch(new URL("/404.html", url));
+        const __loc = __nf.headers.get("location");
+        if (__nf.status >= 300 && __nf.status < 400 && __loc) __nf = await context.env.ASSETS.fetch(new URL(__loc, url));
+        if (__nf.ok) __cuerpo = await __nf.text();
+      } catch (e) {}
+      return new Response(__cuerpo, {
+        status: 404,
+        headers: { "content-type": "text/html; charset=utf-8", "x-robots-tag": "noindex", "cache-control": "no-store" },
+      });
+    }
+  }
   if (!url.hostname.startsWith("www.") && !url.hostname.endsWith(".pages.dev")) {
     const target = new URL(url);
     target.hostname = `www.${url.hostname}`;
