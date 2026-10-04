@@ -31,4 +31,4 @@ User-agent: CCBot
 Allow: /
 
 
-Sitemap: https://www.abogado-badalona.es/sitemap.xml
+Sitemap: https://www.abogado-badalona.es/sitemap_index.xml
