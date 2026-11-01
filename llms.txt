@@ -2,6 +2,8 @@
 
 > Despacho de abogados en Badalona. Consulta gratuita. Especialistas en derecho civil, penal, laboral, familia, herencias y mercantil. Atención personalizada para particulares y empresas.
 
+Cada página de esta web tiene versión en markdown: añade `index.md` a su URL (por ejemplo, https://www.abogado-badalona.es/index.md).
+
 ## Datos clave
 
 - **Nombre:** Abogado Badalona
@@ -81,15 +83,15 @@ Zona de trabajo: Badalona, Barcelona, Santa Coloma de Gramenet, Sant Adrià de B
 ## Recursos
 
 - [Inicio](https://www.abogado-badalona.es/)
+- [Blog](https://www.abogado-badalona.es/blog/)
+- [Blog › Despido 20 Dias Habiles Conciliacion Badalona](https://www.abogado-badalona.es/blog/despido-20-dias-habiles-conciliacion-badalona/)
+- [Blog › Heredar Deudas Cataluna Beneficio Inventario](https://www.abogado-badalona.es/blog/heredar-deudas-cataluna-beneficio-inventario/)
+- [Blog › Reclamar Deuda Ley Organica 1 2025 Negociacion Previa](https://www.abogado-badalona.es/blog/reclamar-deuda-ley-organica-1-2025-negociacion-previa/)
 - [Contacto](https://www.abogado-badalona.es/contacto/)
 - [Faq](https://www.abogado-badalona.es/faq/)
 - [La Firma](https://www.abogado-badalona.es/la-firma/)
 - [Servicios](https://www.abogado-badalona.es/servicios/)
 - [Tarifas](https://www.abogado-badalona.es/tarifas/)
-- [Blog](https://www.abogado-badalona.es/blog/)
-- [Blog › Despido 20 Dias Habiles Conciliacion Badalona](https://www.abogado-badalona.es/blog/despido-20-dias-habiles-conciliacion-badalona/)
-- [Blog › Heredar Deudas Cataluna Beneficio Inventario](https://www.abogado-badalona.es/blog/heredar-deudas-cataluna-beneficio-inventario/)
-- [Blog › Reclamar Deuda Ley Organica 1 2025 Negociacion Previa](https://www.abogado-badalona.es/blog/reclamar-deuda-ley-organica-1-2025-negociacion-previa/)
 
 ## Sitemap
 
