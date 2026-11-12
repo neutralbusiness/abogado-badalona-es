@@ -388,6 +388,8 @@ h1{max-width:961px}
 }
 
 /* nb-auditoria-2026-11 */
+.hero-image img{width:100%;height:500px;object-fit:cover;border-radius:var(--radius-lg);box-shadow:0 20px 60px rgba(0,0,0,.3);display:block}
+@media(max-width:992px){.hero-image{display:block}.hero-image img{height:auto;aspect-ratio:4/3;max-width:560px;margin:0 auto}}
 .btn{max-width:100%;box-sizing:border-box}
 .hero-grid>*,.content-grid>*{min-width:0}
 .footer ul a{display:inline-block;padding:5px 0}
@@ -461,10 +463,7 @@ h1{max-width:961px}
             </div>
           </div>
           <div class="hero-image">
-            <div style="width:100%;height:500px;border-radius:var(--radius-lg);background:linear-gradient(135deg,var(--navy-800) 0%,var(--navy-900) 40%,var(--gold-600) 100%);display:flex;align-items:center;justify-content:center;box-shadow:0 20px 60px rgba(0,0,0,.3)">
-              <svg viewBox="0 0 120 120" width="120" height="120" fill="none" style="opacity:.15"><path d="M60 10 L90 30 L90 70 L60 90 L30 70 L30 30 Z" stroke="var(--gold-400)" stroke-width="2"/><path d="M60 25 L78 37 L78 63 L60 75 L42 63 L42 37 Z" stroke="var(--gold-400)" stroke-width="1.5"/><text x="60" y="56" text-anchor="middle" fill="var(--gold-400)" font-family="var(--font-heading)" font-size="14" font-weight="700">AB</text></svg>
-            </div>
-            
+            <img src="/img/despacho-abogados-badalona.webp" srcset="/img/despacho-abogados-badalona-640.webp 640w, /img/despacho-abogados-badalona.webp 1000w" sizes="(max-width:992px) 100vw, 560px" alt="Despacho con mesa de madera, expedientes ordenados y estantería de códigos legales junto a una ventana" width="1000" height="750" loading="lazy" decoding="async">
           </div>
         </div>
       </div>
