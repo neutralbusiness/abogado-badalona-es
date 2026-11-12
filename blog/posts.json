@@ -1,5 +1,77 @@
 [
   {
+    "slug": "abogado-de-oficio-badalona-justicia-gratuita",
+    "title": "Abogado de oficio en Badalona: quién tiene derecho y cómo se pide",
+    "excerpt": "De oficio no siempre significa gratis. Los límites de ingresos, dónde se pide en Badalona y qué ocurre con los plazos mientras llega la respuesta.",
+    "category": "Justicia gratuita",
+    "publishDate": "2026-11-12",
+    "readTime": 6,
+    "image": "/img/blog/abogado-de-oficio-badalona-justicia-gratuita.webp",
+    "metaTitle": "Abogado de oficio en Badalona: requisitos y cómo pedirlo | Abogado Badalona",
+    "metaDescription": "Quién puede tener abogado de oficio gratis en Badalona, qué ingresos se exigen, dónde se solicita la justicia gratuita y qué pasa con los plazos mientras se tramita.",
+    "author": "Abogado Badalona"
+  },
+  {
+    "slug": "mediacion-familiar-conflictos-badalona",
+    "title": "Mediación en Badalona: cuándo sirve, cuánto dura y qué valor tiene el acuerdo",
+    "excerpt": "Para qué conflictos funciona, cómo son las sesiones, cuánto puede durar y qué hay que hacer para que el acuerdo se pueda exigir como una sentencia.",
+    "category": "Mediación",
+    "publishDate": "2026-11-12",
+    "readTime": 6,
+    "image": "/img/blog/mediacion-familiar-conflictos-badalona.webp",
+    "metaTitle": "Mediación familiar y de conflictos en Badalona: cómo funciona | Abogado Badalona",
+    "metaDescription": "Cómo funciona la mediación en Badalona para divorcios, herencias y conflictos vecinales: sesión informativa, duración, coste y validez legal del acuerdo en Cataluña.",
+    "author": "Abogado Badalona"
+  },
+  {
+    "slug": "tramitar-herencia-badalona-pasos-plazos",
+    "title": "Tramitar una herencia en Badalona paso a paso: papeles, plazos e impuestos",
+    "excerpt": "Del certificado de defunción al Registro de la Propiedad: qué se hace primero, qué plazo tiene cada trámite y dónde se suele atascar una herencia.",
+    "category": "Herencias",
+    "publishDate": "2026-11-12",
+    "readTime": 7,
+    "image": "/img/blog/tramitar-herencia-badalona-pasos-plazos.webp",
+    "metaTitle": "Tramitar una herencia en Badalona: pasos, plazos e impuestos | Abogado Badalona",
+    "metaDescription": "Guía para tramitar una herencia en Badalona: certificados, notaría, inventario, impuesto de sucesiones en Cataluña, plusvalía y registro, con los plazos de cada paso.",
+    "author": "Abogado Badalona"
+  },
+  {
+    "slug": "pension-alimentos-cataluna-calculo-impago",
+    "title": "Pensión de alimentos en Cataluña: cómo se calcula, hasta cuándo se paga y qué hacer si no llega",
+    "excerpt": "Qué mira el juez para fijarla, qué son los gastos extraordinarios, hasta cuándo dura con hijos mayores y las tres vías para reclamar cuando no se paga.",
+    "category": "Familia",
+    "publishDate": "2026-11-12",
+    "readTime": 6,
+    "image": "/img/blog/pension-alimentos-cataluna-calculo-impago.webp",
+    "metaTitle": "Pensión de alimentos en Cataluña: cálculo, duración e impago | Abogado Badalona",
+    "metaDescription": "Cómo se fija la pensión de alimentos de los hijos en Cataluña, qué gastos incluye, hasta qué edad se paga, cuándo se puede modificar y cómo reclamar un impago.",
+    "author": "Abogado Badalona"
+  },
+  {
+    "slug": "incapacidad-permanente-grados-cuantia-reclamar-inss",
+    "title": "Incapacidad permanente: grados, cuánto se cobra y cómo reclamar si el INSS la deniega",
+    "excerpt": "Parcial, total, absoluta y gran invalidez: qué se cobra en cada grado, cómo valora el tribunal médico en Cataluña y los dos plazos de treinta días para reclamar.",
+    "category": "Derecho laboral",
+    "publishDate": "2026-11-12",
+    "readTime": 7,
+    "image": "/img/blog/incapacidad-permanente-grados-cuantia-reclamar-inss.webp",
+    "metaTitle": "Incapacidad permanente: grados, cuantía y reclamación al INSS | Abogado Badalona",
+    "metaDescription": "Los cuatro grados de incapacidad permanente, cuánto se cobra en cada uno, qué requisitos pide la Seguridad Social y cómo reclamar en plazo una denegación desde Badalona.",
+    "author": "Abogado Badalona"
+  },
+  {
+    "slug": "juicio-rapido-badalona-conformidad-alcoholemia",
+    "title": "Citado a un juicio rápido en Badalona: qué pasa ese día y cuándo conviene conformarse",
+    "excerpt": "La policía te entrega una citación para dentro de unos días. Qué va a pasar en el juzgado de guardia, qué supone conformarse y qué se pierde y se gana con cada opción.",
+    "category": "Derecho penal",
+    "publishDate": "2026-11-12",
+    "readTime": 6,
+    "image": "/img/blog/juicio-rapido-badalona-conformidad-alcoholemia.webp",
+    "metaTitle": "Juicio rápido en Badalona: qué pasa y cuándo conformarse | Abogado Badalona",
+    "metaDescription": "Qué es un juicio rápido, qué ocurre en el juzgado de guardia de Badalona, cuánto rebaja la pena la conformidad y qué consecuencias tiene en alcoholemias y otros delitos.",
+    "author": "Abogado Badalona"
+  },
+  {
     "slug": "reclamar-deuda-ley-organica-1-2025-negociacion-previa",
     "title": "Reclamar una deuda desde 2025: el intento de negociación previo obligatorio",
     "excerpt": "La Ley Orgánica 1/2025 exige intentar negociar antes de demandar: qué medios valen, el plazo de 30 días y cómo redactar la propuesta.",
