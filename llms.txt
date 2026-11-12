@@ -1,99 +1,49 @@
 # Abogado Badalona
 
-> Despacho de abogados en Badalona. Consulta gratuita. Especialistas en derecho civil, penal, laboral, familia, herencias y mercantil. Atención personalizada para particulares y empresas.
+> Abogados en Badalona (Barcelona) para particulares y empresas: divorcios y familia, derecho laboral, herencias, penal, deudas y segunda oportunidad, accidentes de tráfico y derecho civil. Primera consulta gratuita y presupuesto cerrado por escrito. El contacto es únicamente por el formulario de la web o por correo electrónico.
 
-Cada página de esta web tiene versión en markdown: añade `index.md` a su URL (por ejemplo, https://www.abogado-badalona.es/index.md).
+Cada página tiene versión en markdown: añade `index.md` a su URL (por ejemplo, https://www.abogado-badalona.es/abogado-laboralista-badalona/index.md).
 
 ## Datos clave
 
-- **Nombre:** Abogado Badalona
-- **Sector:** abogado
-- **Localidad:** Badalona (Barcelona), España
-- **Web oficial:** https://www.abogado-badalona.es
-- **Teléfono / WhatsApp:** 641161771
-- **Horario:** lunes a viernes 09:00–18:00
-- **Idioma:** español
+- Nombre: Abogado Badalona
+- Actividad: servicios de asesoramiento jurídico
+- Zona: Badalona, Sant Adrià de Besòs, Santa Coloma de Gramenet, Montgat, Tiana y Barcelona
+- Contacto: formulario en https://www.abogado-badalona.es/contacto/ · info@abogado-badalona.es
+- Respuesta: en menos de 24 horas en días laborables (lunes a viernes, 9:00–18:00)
+- No se atiende por teléfono ni por WhatsApp; no hay número público
+- Idioma: español
+- Derecho aplicable: en familia, herencias, comunidades de propietarios y prescripción se aplica el Código Civil de Cataluña
 
-## Servicios principales
+## Áreas de práctica
 
-- **Abogado de Familia y Divorcios**
-- **Abogado Laboralista**
-- **Abogado Penalista**
-- **Abogado Civil**
-- **Abogado de Herencias y Sucesiones**
-- **Abogado Mercantil y de Empresa**
-- **Abogado de Accidentes de Tráfico**
-- **Abogado de Deudas e Impagados**
-- **Abogado Administrativo**
+- [Abogado laboralista en Badalona](https://www.abogado-badalona.es/abogado-laboralista-badalona/): despidos (20 días hábiles), salarios impagados (un año), incapacidad permanente (reclamación previa al INSS en 30 días hábiles). Las demandas laborales de Badalona se tramitan en los órganos de lo social de Barcelona.
+- [Abogado de divorcios y familia](https://www.abogado-badalona.es/abogado-divorcios-badalona/): mutuo acuerdo y contencioso con derecho catalán, plan de parentalidad, custodia, separación de bienes y compensación por razón de trabajo.
+- [Abogado de herencias](https://www.abogado-badalona.es/abogado-herencias-badalona/): sucesión sin testamento en Cataluña, legítima de una cuarta parte, impuesto de sucesiones en seis meses, partición entre herederos.
+- [Abogado penalista](https://www.abogado-badalona.es/abogado-penalista-badalona/): asistencia al detenido, citaciones como investigado, juicios rápidos, alcoholemias, acusación particular y cancelación de antecedentes.
+- [Abogado de deudas](https://www.abogado-badalona.es/abogado-deudas-badalona/): reclamación de impagos por monitorio, oposición a reclamaciones y Ley de Segunda Oportunidad.
+- [Abogado de accidentes de tráfico](https://www.abogado-badalona.es/abogado-accidentes-trafico-badalona/): reclamación a la aseguradora, oferta motivada en tres meses, baremo de la Ley 35/2015, defensa jurídica de la póliza.
+- [Abogado civil](https://www.abogado-badalona.es/abogado-civil-badalona/): alquileres en zona tensionada, desahucios, comunidades de propietarios, contratos y reclamaciones de daños.
+- [Todas las áreas](https://www.abogado-badalona.es/servicios/): también mercantil y administrativo.
 
-## Preguntas frecuentes
+## Precios orientativos
 
-### ¿Cuánto cuesta un abogado en Badalona?
+Consulta inicial gratuita. Divorcio de mutuo acuerdo desde 600 €; divorcio contencioso desde 1.200 €; reclamación laboral desde 400 €; despido desde 500 €; herencia (aceptación y partición) desde 800 €; reclamación de deudas desde 300 €; defensa penal desde 600 €; constitución de sociedad desde 500 €. Son orientativos: el presupuesto se cierra por escrito antes de empezar. Detalle en https://www.abogado-badalona.es/tarifas/
 
-Los honorarios varían según la complejidad del caso. Ofrecemos consulta inicial gratuita y presupuesto cerrado sin sorpresas. Disponemos de facilidades de pago.
+## Artículos
 
-### ¿Cómo puedo solicitar una consulta gratuita?
+- [Te han despedido en Badalona: los 20 días hábiles y la papeleta de conciliación](https://www.abogado-badalona.es/blog/despido-20-dias-habiles-conciliacion-badalona/)
+- [Heredar deudas en Cataluña: el inventario de seis meses](https://www.abogado-badalona.es/blog/heredar-deudas-cataluna-beneficio-inventario/)
+- [Reclamar una deuda desde 2025: la negociación previa obligatoria](https://www.abogado-badalona.es/blog/reclamar-deuda-ley-organica-1-2025-negociacion-previa/)
 
-Llama al 641 161 771, envía un WhatsApp o rellena el formulario de contacto. Respondemos en menos de 24 horas.
+## Otras páginas
 
-### ¿Necesito un abogado para un divorcio de mutuo acuerdo?
-
-Sí, en España es obligatorio contar con abogado y procurador. En divorcios de mutuo acuerdo ambas partes pueden compartir abogado, reduciendo costes.
-
-### ¿Qué hace un abogado laboralista y cuándo necesito uno?
-
-Te asesora en conflictos laborales: despidos, reclamaciones salariales, acoso laboral, incapacidades o accidentes de trabajo.
-
-### ¿Cuánto tarda un proceso de divorcio en Badalona?
-
-Un divorcio de mutuo acuerdo: 2-4 meses. Un divorcio contencioso: 6 meses a más de un año.
-
-### ¿Qué documentos necesito para una herencia?
-
-Certificado de defunción, certificado de últimas voluntades, testamento (si existe), escrituras de propiedades, extractos bancarios y DNI de los herederos.
-
-### ¿Puede un abogado ayudarme si me deben dinero?
-
-Sí. Gestionamos reclamaciones de deudas mediante proceso monitorio, juicio verbal u ordinario. Primero intentamos resolución extrajudicial.
-
-### ¿Qué derechos tengo si me despiden?
-
-Derecho a indemnización, carta de despido, finiquito y prestación por desempleo. El plazo para reclamar es de 20 días hábiles.
-
-### ¿Ofrecen servicios para empresas en Badalona?
-
-Sí: derecho mercantil, contratos, constitución de sociedades, conflictos entre socios, laboral empresarial y asesoría fiscal.
-
-### ¿Atienden casos de derecho penal?
-
-Sí: delitos contra las personas, estafas, delitos económicos, violencia de género y asistencia urgente al detenido.
-
-## Área de servicio
-
-Zona de trabajo: Badalona, Barcelona, Santa Coloma de Gramenet, Sant Adrià de Besòs, Montgat, Tiana.
-
-## Contacto y ubicación
-
-- **Nombre:** Abogado Badalona
-- **Dirección:** 08911 Badalona, Barcelona
-- **Teléfono / WhatsApp:** +34641161771
-- **Web:** https://www.abogado-badalona.es
-- **Horario:** lunes a viernes 09:00–18:00
-
-## Recursos
-
-- [Inicio](https://www.abogado-badalona.es/)
-- [Blog](https://www.abogado-badalona.es/blog/)
-- [Blog › Despido 20 Dias Habiles Conciliacion Badalona](https://www.abogado-badalona.es/blog/despido-20-dias-habiles-conciliacion-badalona/)
-- [Blog › Heredar Deudas Cataluna Beneficio Inventario](https://www.abogado-badalona.es/blog/heredar-deudas-cataluna-beneficio-inventario/)
-- [Blog › Reclamar Deuda Ley Organica 1 2025 Negociacion Previa](https://www.abogado-badalona.es/blog/reclamar-deuda-ley-organica-1-2025-negociacion-previa/)
+- [Cómo trabajamos](https://www.abogado-badalona.es/la-firma/)
+- [Preguntas frecuentes](https://www.abogado-badalona.es/faq/)
 - [Contacto](https://www.abogado-badalona.es/contacto/)
-- [Faq](https://www.abogado-badalona.es/faq/)
-- [La Firma](https://www.abogado-badalona.es/la-firma/)
-- [Servicios](https://www.abogado-badalona.es/servicios/)
-- [Tarifas](https://www.abogado-badalona.es/tarifas/)
+- [Aviso legal](https://www.abogado-badalona.es/aviso-legal/)
+- [Mapa del sitio XML](https://www.abogado-badalona.es/sitemap_index.xml)
 
-## Sitemap
+## Aviso
 
-- [Mapa del sitio XML](https://www.abogado-badalona.es/sitemap.xml)
-- [Este archivo](https://www.abogado-badalona.es/llms.txt) sigue el estándar [llms.txt](https://llmstxt.org/) para asistentes de IA.
+El contenido es información general y no sustituye el asesoramiento sobre un caso concreto. Las solicitudes pueden ser atendidas por el titular o por profesionales colaboradores de la zona, según se explica en el aviso legal.

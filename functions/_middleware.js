@@ -35,7 +35,19 @@ export async function onRequest(context) {
     target.hostname = `www.${url.hostname}`;
     return Response.redirect(target.toString(), 301);
   }
-  const __r = await context.next();
+  // Mayúsculas en la ruta: Pages distingue /SERVICIOS/ de /servicios/ y daba 404.
+  if (/[A-Z]/.test(url.pathname) && !/\.[a-z0-9]+$/i.test(url.pathname)) {
+    const __min = new URL(url);
+    __min.pathname = url.pathname.toLowerCase();
+    return Response.redirect(__min.toString(), 301);
+  }
+  const __r0 = await context.next();
+  // La copia en *.pages.dev es un duplicado exacto de la web: fuera del índice.
+  let __r = __r0;
+  if (url.hostname.endsWith(".pages.dev")) {
+    __r = new Response(__r0.body, __r0);
+    __r.headers.set("x-robots-tag", "noindex, nofollow");
+  }
   const __ct = __r.headers.get("content-type") || "";
   if (!__ct.includes("text/html")) return __r;
   return new HTMLRewriter()

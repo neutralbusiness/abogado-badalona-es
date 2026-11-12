@@ -34,8 +34,6 @@
   <!-- Preconnect & DNS Prefetch -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="dns-prefetch" href="https://www.abogado-badalona.es">
-  <link rel="dns-prefetch" href="https://api.whatsapp.com">
 
   <!-- Fonts — non-render-blocking -->
   <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;1,600&family=Inter:wght@400;500;600;700&display=swap">
@@ -384,9 +382,21 @@ h1{max-width:961px}
 .container p{max-width:72ch}
 .advantage-card h1,.advantage-card p,.btn h1,.btn p,.cta-final h1,.cta-final p,.footer-bottom h1,.footer-bottom p,.form-legal h1,.form-legal p,.hero-grid h1,.hero-grid p,.hero-stats div h1,.hero-stats div p,.section-header h1,.section-header p,.tarifas-nota h1,.tarifas-nota p{margin-inline:auto}
 }
+
+/* nb-auditoria-2026-11 */
+.btn{max-width:100%;box-sizing:border-box}
+.hero-grid>*,.content-grid>*{min-width:0}
+.footer ul a{display:inline-block;padding:5px 0}
+.footer ul li{margin-bottom:2px}
+.footer-bottom a{display:inline-block;padding:6px 2px}
+.service-link{padding:8px 0}
+.breadcrumbs a{display:inline-block;padding:4px 0}
+.nb-form-box{max-width:760px;margin:0 auto;background:var(--white);border-radius:var(--radius-lg);padding:8px;text-align:left;position:relative;z-index:1}
+.post-body,.nb-legal{overflow-wrap:anywhere}
+@media(max-width:600px){.hero-buttons .btn,.cta-buttons .btn{max-width:100%}}
 </style>
   </style>
-<script async src="https://panel.neutralb.es/track.js"></script></head>
+</head>
 <body>
 
   <svg xmlns="http://www.w3.org/2000/svg" style="display:none">
@@ -413,6 +423,7 @@ h1{max-width:961px}
         <a href="/servicios/">Servicios</a>
         <a href="/la-firma/">La Firma</a>
         <a href="/tarifas/">Tarifas</a>
+        <a href="/blog/">Blog</a>
         <a href="/faq/">FAQ</a>
         <a href="/contacto/" class="nav-cta">Consulta Gratuita</a>
       </div>
@@ -447,17 +458,19 @@ h1{max-width:961px}
       <div class="footer-top">
         <div>
           <div class="footer-brand">Abogado <span>Badalona</span></div>
-          <p class="footer-desc">Despacho de abogados en Badalona con más de 20 años de experiencia. Asesoramiento legal personalizado en todas las ramas del derecho para particulares y empresas.</p>
+          <p class="footer-desc">Abogados en Badalona para particulares y empresas. Primera consulta gratuita y presupuesto por escrito antes de empezar.</p>
         </div>
         <nav aria-label="Servicios en el pie de página">
           <h4>Servicios</h4>
           <ul>
-            <li><a href="/servicios/">Derecho de Familia</a></li>
-            <li><a href="/servicios/">Derecho Laboral</a></li>
-            <li><a href="/servicios/">Derecho Penal</a></li>
-            <li><a href="/servicios/">Derecho Civil</a></li>
-            <li><a href="/servicios/">Herencias</a></li>
-            <li><a href="/servicios/">Derecho Mercantil</a></li>
+            <li><a href="/abogado-divorcios-badalona/">Divorcios y familia</a></li>
+            <li><a href="/abogado-laboralista-badalona/">Derecho laboral</a></li>
+            <li><a href="/abogado-penalista-badalona/">Derecho penal</a></li>
+            <li><a href="/abogado-civil-badalona/">Derecho civil</a></li>
+            <li><a href="/abogado-herencias-badalona/">Herencias</a></li>
+            <li><a href="/abogado-accidentes-trafico-badalona/">Accidentes de tráfico</a></li>
+            <li><a href="/abogado-deudas-badalona/">Deudas</a></li>
+            <li><a href="/servicios/">Todas las áreas</a></li>
           </ul>
         </nav>
         <nav aria-label="Enlaces legales">
@@ -467,7 +480,7 @@ h1{max-width:961px}
             <li><a href="/politica-privacidad/">Política de privacidad</a></li>
             <li><a href="/politica-cookies/">Política de cookies</a></li>
             <li><a href="/blog/">Blog</a></li>
-            <li><a href="/sitemap.xml">Mapa del sitio</a></li>
+            <li><a href="/sitemap_index.xml">Mapa del sitio</a></li>
             <li><a href="/llms.txt">llms.txt</a></li>
           </ul>
         </nav>
@@ -475,12 +488,8 @@ h1{max-width:961px}
           <h4>Contacto</h4>
           <ul class="footer-contact">
             <li>
-              <svg viewBox="0 0 24 24"><use href="#icon-phone"/></svg>
-              <span><a href="tel:+34641161771">641 161 771</a></span>
-            </li>
-            <li>
               <svg viewBox="0 0 24 24"><path d="M20 4H4a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2zm0 4.2-8 5-8-5V6l8 5 8-5v2.2z" fill="var(--gold-500)"/></svg>
-              <span><a href="mailto:info@abogado-badalona.es">info@abogado-badalona.es</a></span>
+              <span><a href="/contacto/">Formulario de contacto</a><br>info@abogado-badalona.es</span>
             </li>
             <li>
               <svg viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z" fill="var(--gold-500)"/></svg>
